@@ -1,4 +1,11 @@
-container{
-    width: 20%;
-    height: 20%;    
+.contenedor{
+    /* text-align: center; */
+    padding-top: 5%;
+    padding-left: 5%;
+}
+.img{
+    width: 5%;
+    height: 80%;
+    position:absolute;
+    border-radius: 5%;
 }
